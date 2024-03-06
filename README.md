@@ -1,4 +1,4 @@
-# About me
+# 😎 About me
 #### I am a Full Stack Developer with a strong foundation in both Laravel and ASP.NET
 I am eager to embark on a journey of growth, I bring boundless enthusiasm and a thirst for mastering new technologies to every project I undertake.
 
